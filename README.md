@@ -15,7 +15,7 @@
 </center>
 
 ## About Project
-<a href="elaborate-hamster-3992a4.netlify.app/"> Live </a>
+<a href="https://elaborate-hamster-3992a4.netlify.app"> Live </a>
 <ul>
   <li> Creating a front-end of Authentication and Authorization powered by Node.js backend. </li> 
   <li> Each User have their own data table and accessible to them only. </li>
